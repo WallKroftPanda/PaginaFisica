@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @charset "utf-8";
 /* Simple fluid media
    Note: Fluid media requires that you remove the media's height and width attributes from the HTML
@@ -78,3 +79,34 @@ img, object, embed, video {
 	display: block;
 }
 }
+=======
+@charset "utf-8";
+/* CSS Document */
+
+.banner{
+	width:100%;
+	height: 100px;
+	background-color:#FF9;
+	background-image:url(ImgsApoyo/Logox1920.png);
+	background-size:cover;
+	
+}
+
+table,th,td{
+	border: 5px solid;
+	width: 1200px;
+	height:100px;
+	border-color: back;
+	border-radius: 5px;
+}
+
+img{
+	display:block;
+	margin:auto;
+	width: 960px;
+	height:500px;
+}
+
+
+
+>>>>>>> 1f7790535eb8476e1f0005c411f0feeba77051e6
