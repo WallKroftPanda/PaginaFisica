@@ -86,7 +86,8 @@ img, object, embed, video {
 .banner{
 	width:100%;
 	height: 100px;
-	background-image: url(resources/images/Logox1920-wide.png)
+	background-color:#FF9;
+	background-image:url(ImgsApoyo/Logox1920.png);
 	background-size:cover;
 	
 }
